@@ -1,0 +1,11 @@
+c:\users\bisrat\documents\visual studio 2010\Projects\Warehouse\Warehouse\bin\Warehouse.dll
+c:\users\bisrat\documents\visual studio 2010\Projects\Warehouse\Warehouse\bin\Warehouse.pdb
+c:\users\bisrat\documents\visual studio 2010\Projects\Warehouse\Warehouse\obj\Debug\Warehouse.dll
+c:\users\bisrat\documents\visual studio 2010\Projects\Warehouse\Warehouse\obj\Debug\Warehouse.pdb
+C:\Users\Bisrat\documents\visual studio 2010\Projects\Warehouse\Warehouse\obj\Debug\Warehouse.csprojResolveAssemblyReference.cache
+D:\Warehouse\Warehouse\obj\Debug\Warehouse.csprojResolveAssemblyReference.cache
+D:\Warehouse\Warehouse\obj\Debug\Warehouse.pdb
+D:\Warehouse\Warehouse\bin\Warehouse.dll
+D:\Warehouse\Warehouse\bin\Warehouse.pdb
+D:\Warehouse\Warehouse\obj\Debug\Warehouse.dll
+D:\Warehouse\Warehouse\bin\Warehouse.dll.config
